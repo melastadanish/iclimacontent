@@ -57,7 +57,7 @@ total-pages: 35
 ## PHASE 2 — PRODUCT PAGES (6)
 > Build `product-page-template.md` before starting this phase.
 
-- [x] 📝 [REVIEW] Inverter Split AC `/inverter-split-ac/` — `1. Website Copy/1.2 Wall Mount Split AC/1.2.1 Inverter Split AC/inverter-split-copy.md`
+- [x] ✅ [DONE] Inverter Split AC `/inverter-split-ac/` — `1. Website Copy/1.2 Wall Mount Split AC/1.2.1 Inverter Split AC/inverter-split-copy.md`
 - [ ] ⬜ [WRITE] On & Off Split AC `/on-off-split-ac/` — `2. Products/2.2 On Off Split AC/on-off-split-copy.md`
 - [x] ✅ [DONE] Solar AC `/solar-ac/` — `1. Website Copy/1.5 Solar AC/solar-ac-copy.md`
 - [x] ✅ [DONE] Free Match AC `/free-match-ac/` — `1. Website Copy/1.6 Free Match AC/free-match-copy.md`
