@@ -60,7 +60,7 @@ total-pages: 35
 - [x] 📝 [REVIEW] Inverter Split AC `/inverter-split-ac/` — `1. Website Copy/1.2 Wall Mount Split AC/1.2.1 Inverter Split AC/inverter-split-copy.md`
 - [ ] ⬜ [WRITE] On & Off Split AC `/on-off-split-ac/` — `2. Products/2.2 On Off Split AC/on-off-split-copy.md`
 - [x] ✅ [DONE] Solar AC `/solar-ac/` — `1. Website Copy/1.5 Solar AC/solar-ac-copy.md`
-- [ ] ⬜ [WRITE] Free Match AC `/free-match-ac/` — `2. Products/2.4 Free Match AC/free-match-copy.md`
+- [x] ✅ [DONE] Free Match AC `/free-match-ac/` — `1. Website Copy/1.6 Free Match AC/free-match-copy.md`
 - [ ] ⬜ [WRITE] Window AC `/window-ac/` — `2. Products/2.5 Window AC/window-ac-copy.md`
 - [ ] ⬜ [WRITE] Duct / Cassette / Ceiling Floor AC `/commercial-ac/` — `2. Products/2.6 Commercial AC/commercial-ac-copy.md`
 
@@ -71,11 +71,11 @@ total-pages: 35
 
 - [x] ✅ [DONE] Hotels & Hospitality `/hotels-hospitality/` — `3. Solutions/3.1 Hotels/hotels-copy.md`
 - [x] ✅ [DONE] Offices & Commercial `/offices-commercial/` — `3. Solutions/3.2 Offices/offices-copy.md`
-- [ ] ⬜ [WRITE] Retail & Shopping Centers `/retail-shopping-centers/` — `3. Solutions/3.3 Retail/retail-copy.md`
+- [x] ✅ [DONE] Retail & Shopping Centers `/retail-shopping-centers/` — `3. Solutions/3.3 Retail/retail-copy.md`
 - [x] ✅ [DONE] Schools & Universities `/schools-universities/` — `3. Solutions/3.4 Schools/schools-copy.md`
 - [x] ✅ [DONE] Healthcare & Clinics `/healthcare-clinics/` — `3. Solutions/3.5 Healthcare/healthcare-copy.md`
-- [ ] ⬜ [WRITE] Housing & Apartments `/housing-apartments/` — `3. Solutions/3.6 Housing/housing-copy.md`
-- [ ] ⬜ [WRITE] Real Estate & Government `/real-estate-government/` — `3. Solutions/3.7 Real Estate/realestate-copy.md`
+- [x] ✅ [DONE] Housing & Apartments `/housing-apartments/` — `3. Solutions/3.6 Housing/housing-copy.md`
+- [x] ✅ [DONE] Real Estate & Government `/real-estate-government/` — `3. Solutions/3.7 Real Estate/realestate-copy.md`
 - [ ] ⬜ [WRITE] Warehouses & Industrial `/warehouses-industrial/` — `3. Solutions/3.8 Warehouses/warehouses-copy.md`
 - [ ] ⬜ [WRITE] Mosques & Community `/mosques-community/` — `3. Solutions/3.9 Mosques/mosques-copy.md`
 
