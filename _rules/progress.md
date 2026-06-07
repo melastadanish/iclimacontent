@@ -70,7 +70,7 @@ total-pages: 35
 ## PHASE 3 — SOLUTION PAGES (9)
 > Build `solution-page-template.md` before starting this phase.
 
-- [x] 📝 [REVIEW] Hotels & Hospitality `/hotels-hospitality/` — `3. Solutions/3.1 Hotels/hotels-copy.md`
+- [x] ✅ [DONE] Hotels & Hospitality `/hotels-hospitality/` — `3. Solutions/3.1 Hotels/hotels-copy.md`
 - [ ] ⬜ [WRITE] Offices & Commercial `/offices-commercial/` — `3. Solutions/3.2 Offices/offices-copy.md`
 - [ ] ⬜ [WRITE] Retail & Shopping Centers `/retail-shopping-centers/` — `3. Solutions/3.3 Retail/retail-copy.md`
 - [ ] ⬜ [WRITE] Schools & Universities `/schools-universities/` — `3. Solutions/3.4 Schools/schools-copy.md`

@@ -173,13 +173,45 @@ Confirm your product mix, packaging specification, and destination port. 30-day 
 
 ---
 
-## SECTION 9 — CERTIFICATIONS
+## SECTION 9 — CASE STUDIES
 
-[STATIC: certifications]
+**Heading:** [Sector] Projects Supplied by iCLIMA AIR
+
+> DATA NEEDED per case study: project photo · project name · city · country · products supplied · unit count · 2–3 sentence description.
+
+Format per entry:
+
+**[Project Name]**
+[City, Country]
+*Products supplied: [product types]*
+[2–3 sentences: property type · volume · BTU · certifications used · delivery timeline.]
+
+Minimum 3 case studies per page.
 
 ---
 
-## SECTION 10 — FAQ
+## SECTION 10 — CERTIFICATIONS
+
+**Heading:** Certified for [Sector] Projects Worldwide
+
+[1–2 intro sentences: number of certs · regions covered · documentation ships with units · no re-testing at destination.]
+
+| Certification | Market | [Sector] Project Relevance |
+|---|---|---|
+| CE | Europe | [specific EU context for this sector] |
+| CB | Global | Baseline safety — global chains and procurement |
+| UL | North America | Required for US and Canadian projects |
+| AHRI | North America | Performance standard for North American specification |
+| RETIQ | Colombia | Colombian projects |
+| RTCA | Honduras · El Salvador · Central America | Central American supply |
+| GMRK | Gulf / Middle East | Required for UAE · Saudi · Qatar projects |
+| ISO 9001 | Quality — global | Required by procurement specs needing QMS certification |
+
+> Third column is sector-specific — rewrite per page to make it relevant to the buyer's context.
+
+---
+
+## SECTION 12 — FAQ
 
 **Heading:** Frequently Asked Questions — [Sector] Air Conditioning Supply
 
@@ -194,7 +226,7 @@ Confirm your product mix, packaging specification, and destination port. 30-day 
 
 ---
 
-## SECTION 11 — PRIMARY CTA
+## SECTION 13 — PRIMARY CTA
 
 [STATIC: primary-cta]
 
@@ -204,7 +236,7 @@ Confirm your product mix, packaging specification, and destination port. 30-day 
 
 ---
 
-## SECTION 12 — FOOTER CTA
+## SECTION 14 — FOOTER CTA
 
 [STATIC: footer-cta]
 
