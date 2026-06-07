@@ -61,8 +61,8 @@ total-pages: 35
 - [ ] ⬜ [WRITE] On & Off Split AC `/on-off-split-ac/` — `2. Products/2.2 On Off Split AC/on-off-split-copy.md`
 - [x] ✅ [DONE] Solar AC `/solar-ac/` — `1. Website Copy/1.5 Solar AC/solar-ac-copy.md`
 - [x] ✅ [DONE] Free Match AC `/free-match-ac/` — `1. Website Copy/1.6 Free Match AC/free-match-copy.md`
-- [ ] ⬜ [WRITE] Window AC `/window-ac/` — `2. Products/2.5 Window AC/window-ac-copy.md`
-- [ ] ⬜ [WRITE] Duct / Cassette / Ceiling Floor AC `/commercial-ac/` — `2. Products/2.6 Commercial AC/commercial-ac-copy.md`
+- [x] ✅ [DONE] Window AC `/window-ac/` — `2. Products/2.5 Window AC/window-ac-copy.md`
+- [x] ✅ [DONE] Duct / Cassette / Ceiling Floor AC `/commercial-ac/` — `2. Products/2.6 Commercial AC/commercial-ac-copy.md`
 
 ---
 
@@ -76,8 +76,8 @@ total-pages: 35
 - [x] ✅ [DONE] Healthcare & Clinics `/healthcare-clinics/` — `3. Solutions/3.5 Healthcare/healthcare-copy.md`
 - [x] ✅ [DONE] Housing & Apartments `/housing-apartments/` — `3. Solutions/3.6 Housing/housing-copy.md`
 - [x] ✅ [DONE] Real Estate & Government `/real-estate-government/` — `3. Solutions/3.7 Real Estate/realestate-copy.md`
-- [ ] ⬜ [WRITE] Warehouses & Industrial `/warehouses-industrial/` — `3. Solutions/3.8 Warehouses/warehouses-copy.md`
-- [ ] ⬜ [WRITE] Mosques & Community `/mosques-community/` — `3. Solutions/3.9 Mosques/mosques-copy.md`
+- [x] ✅ [DONE] Warehouses & Industrial `/warehouses-industrial/` — `3. Solutions/3.8 Warehouses/warehouses-copy.md`
+- [x] ✅ [DONE] Mosques & Community `/mosques-community/` — `3. Solutions/3.9 Mosques/mosques-copy.md`
 
 ---
 
