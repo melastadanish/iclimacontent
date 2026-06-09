@@ -32,7 +32,7 @@ total-pages: 35
 - [x] ✅ product-page-template.md — confirmed from Inverter Split AC page
 - [x] ✅ solution-page-template.md — confirmed from Hotels & Hospitality page
 - [ ] ⬜ market-page-template.md — required before Phase 6
-- [ ] ⬜ buyer-type-page-template.md — required before Phase 4
+- [x] ✅ buyer-type-page-template.md — completed Phase 4
 
 ### Client Data
 - [x] ✅ client-data.md — all verified product specs · factory facts · certs · customer reviews · data gaps listed
@@ -84,10 +84,10 @@ total-pages: 35
 ## PHASE 4 — BUYER TYPE PAGES (4)
 > Build `buyer-type-page-template.md` before starting this phase.
 
-- [ ] ⬜ [WRITE] Distributors `/distributors/` — `4. Buyer Types/4.1 Distributors/distributors-copy.md`
-- [ ] ⬜ [WRITE] Importers `/importers/` — `4. Buyer Types/4.2 Importers/importers-copy.md`
-- [ ] ⬜ [WRITE] Contractors `/contractors/` — `4. Buyer Types/4.3 Contractors/contractors-copy.md`
-- [ ] ⬜ [WRITE] Project Developers `/project-developers/` — `4. Buyer Types/4.4 Project Developers/developers-copy.md`
+- [x] ✅ [DONE] Distributors `/distributors/` — `4. Buyer Types/4.1 Distributors/distributors-copy.md`
+- [x] ✅ [DONE] Importers `/importers/` — `4. Buyer Types/4.2 Importers/importers-copy.md`
+- [x] ✅ [DONE] Contractors `/contractors/` — `4. Buyer Types/4.3 Contractors/contractors-copy.md`
+- [x] ✅ [DONE] Project Developers `/project-developers/` — `4. Buyer Types/4.4 Project Developers/developers-copy.md`
 
 ---
 
