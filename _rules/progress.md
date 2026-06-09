@@ -93,9 +93,9 @@ total-pages: 35
 
 ## PHASE 5 — ABOUT & TRUST PAGES (3)
 
-- [ ] ⬜ [WRITE] About Us `/about/` — `5. About/about-copy.md`
-- [ ] ⬜ [WRITE] Certifications `/certifications/` — `5. About/certifications-copy.md`
-- [ ] ⬜ [WRITE] Quality & Testing `/quality/` — `5. About/quality-copy.md`
+- [x] ✅ [DONE] About Us `/about/` — `5. About/about-copy.md`
+- [x] ✅ [DONE] Certifications `/certifications/` — `5. About/certifications-copy.md`
+- [x] ✅ [DONE] Quality & Testing `/quality/` — `5. About/quality-copy.md`
 
 ---
 
