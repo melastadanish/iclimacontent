@@ -44,6 +44,8 @@ iCLIMA AIR supplies air conditioning for schools and universities — inverter s
 
 [STATIC: trust-strip]
 
+Schools specifying across 50–200+ spaces get a 30-day production schedule that fits fixed academic calendars, SEER A+++ energy ratings that reduce long-term running cost, and CE/CB/UL certifications accepted without re-testing.
+
 ---
 
 ### SECTION 3 — THE CHALLENGE

@@ -43,6 +43,8 @@ iCLIMA AIR supplies air conditioning for housing and apartment projects — inve
 
 [STATIC: trust-strip]
 
+Housing developers and apartment contractors get a 30-day delivery timeline, SEER A++/A+++ inverter units that keep tenant energy bills down, and CE/CB/UL certifications already cleared for your market.
+
 ---
 
 ### SECTION 3 — THE CHALLENGE

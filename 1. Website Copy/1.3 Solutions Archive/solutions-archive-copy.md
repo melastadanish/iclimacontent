@@ -124,6 +124,8 @@ DC input range 80–380V accepts direct PV panel output via MC4 plug-and-play co
 
 ## SECTION 5 — WHY ICLIMA AIR
 
+Contractors, developers, and procurement teams specifying across multiple sectors get five consistent advantages — factory-direct pricing, Italian-designed OBM brand, certifications for every primary market, 30-day lead time, and a <0.1% defect rate.
+
 [STATIC: why-iclima]
 
 ---
@@ -177,6 +179,8 @@ A 7-day rapid sample programme allows buyers to test a physical unit in their ma
 ---
 
 ## SECTION 8 — CERTIFICATIONS
+
+iCLIMA AIR holds CE (Europe), UL and AHRI (North America), RETIQ (Colombia), RTCA (Central America), GMRK (Gulf), CB (global), and ISO 9001 — one certification portfolio covering the primary markets in this sector portfolio. Documentation ships with every container.
 
 [STATIC: certifications]
 

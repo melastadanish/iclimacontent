@@ -44,6 +44,8 @@ iCLIMA AIR supplies air conditioning for real estate and government projects —
 
 [STATIC: trust-strip]
 
+Real estate and government project buyers get factory-direct pricing from a 3,000,000-unit/year facility, CE/CB/UL/AHRI certifications already in place for multi-market tenders, and 30-day production lead times across multi-phase delivery.
+
 ---
 
 ### SECTION 3 — THE CHALLENGE

@@ -222,6 +222,8 @@ The factory covers 30,000 sqm with 15+ years of AC manufacturing experience behi
 
 ### SECTION 10 — CERTIFICATIONS
 
+iCLIMA AIR free match AC is CE certified with EU ERP energy label A++ — confirmed for European hotel, office, and retail projects without re-testing at customs.
+
 [STATIC: certifications]
 
 | Certification | Market Coverage |

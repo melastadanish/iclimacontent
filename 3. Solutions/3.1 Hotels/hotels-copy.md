@@ -40,6 +40,8 @@ iCLIMA AIR supplies air conditioning for hotel projects — inverter split AC, 4
 
 [STATIC: trust-strip]
 
+For hotel developers, these metrics mean confirmed production slots, 30-day delivery to programme, and certifications already cleared for your destination market.
+
 ---
 
 ### SECTION 3 — THE CHALLENGE

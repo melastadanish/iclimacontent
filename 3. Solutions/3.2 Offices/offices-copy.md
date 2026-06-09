@@ -41,6 +41,8 @@ iCLIMA AIR supplies air conditioning for office and commercial building projects
 
 [STATIC: trust-strip]
 
+Office fit-out buyers get confirmed production lead times, certifications for European and North American markets already in place, and a 30,000 sqm factory that absorbs large-floor-plate order volumes.
+
 ---
 
 ### SECTION 3 — THE CHALLENGE

@@ -42,6 +42,8 @@ iCLIMA AIR supplies air conditioning for mosques and community centers — 4-way
 
 [STATIC: trust-strip]
 
+Mosque and community center projects in Gulf and South Asian markets get inverter units rated to 50°C ambient, GMRK certification already held, and 30-day production delivery for government programme timelines.
+
 ---
 
 ### SECTION 3 — THE CHALLENGE

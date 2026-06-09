@@ -211,6 +211,8 @@ The factory covers 30,000 sqm with 15+ years of AC manufacturing experience behi
 
 ## SECTION 10 — CERTIFICATIONS
 
+iCLIMA AIR commercial AC carries CE, CB, UL, AHRI, GMRK, and ISO 9001 — covering hotel, office, and retail project markets across Europe, North America, and the Gulf. Certification documentation ships with every container.
+
 [STATIC: certifications]
 
 | Certification | Market Coverage |

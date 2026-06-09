@@ -217,6 +217,8 @@ The factory covers 30,000 sqm with 15+ years of AC manufacturing experience behi
 
 ### SECTION 10 — CERTIFICATIONS
 
+iCLIMA AIR inverter split AC carries CE (Europe), UL and AHRI (North America), RETIQ (Colombia), RTCA (Central America), GMRK (Gulf), and CB (global) — documentation included with every shipment, no re-testing required at destination.
+
 [STATIC: certifications]
 
 | Certification | Market Coverage |

@@ -217,6 +217,8 @@ The factory covers 30,000 sqm with 15+ years of AC manufacturing experience behi
 
 ### SECTION 10 — CERTIFICATIONS
 
+iCLIMA AIR solar AC carries CE (Europe), UL and AHRI (North America), CB (global), RETIQ, RTCA, and GMRK — covering the primary off-grid markets in Africa, the Middle East, and Latin America. Documentation ships with every order.
+
 [STATIC: certifications]
 
 | Certification | Market Coverage |

@@ -202,6 +202,8 @@ The factory covers 30,000 sqm with 15+ years of AC manufacturing experience behi
 
 ## SECTION 10 — CERTIFICATIONS
 
+iCLIMA AIR window AC carries CE (Europe), CB (global), UL and AHRI (North America) — the four certifications that cover residential retrofit markets across Europe, North America, and Africa. Documentation ships with every order.
+
 [STATIC: certifications]
 
 | Certification | Market Coverage |

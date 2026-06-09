@@ -5,6 +5,26 @@ When a fact changes in `writer-profile.md`, update that block here — then all 
 
 ---
 
+## RULE — Every Section Must Have a Description
+
+**A bare `[STATIC: tag]` line with nothing else is never acceptable.**
+
+Every section — including sections that contain a static block — must have at least one sentence of page-specific context written above or below the static block reference.
+
+**Format:**
+
+```markdown
+## SECTION X — CERTIFICATIONS
+
+iCLIMA AIR holds CE, CB, UL, AHRI, RETIQ, RTCA, GMRK, and ISO 9001 certifications — covering Europe, North America, Latin America, and the Gulf. Certification documentation ships with every container.
+
+[STATIC: certifications]
+```
+
+**Rationale:** Static blocks render as UI components. Without surrounding copy, the section has no SEO value, no buyer context, and no narrative continuity. The description sentence(s) must be written for the specific page — not generic filler.
+
+---
+
 ## RS-01 — Trust Strip
 **Tag:** `[STATIC: trust-strip]`
 **Used on:** Every page — directly below the Hero section

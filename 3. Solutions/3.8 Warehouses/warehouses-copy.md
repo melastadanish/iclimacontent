@@ -40,6 +40,8 @@ iCLIMA AIR supplies air conditioning for warehouses and industrial buildings —
 
 [STATIC: trust-strip]
 
+Warehouse and industrial buyers get floor standing units rated to 50°C ambient, 30-day delivery to commissioning schedule, and certifications already cleared for industrial project markets in Europe, North America, and the Gulf.
+
 ---
 
 ### SECTION 3 — THE CHALLENGE

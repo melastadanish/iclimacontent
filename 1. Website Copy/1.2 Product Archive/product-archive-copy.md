@@ -48,6 +48,8 @@ iCLIMA AIR manufactures inverter split AC, solar AC, free match multi-split, win
 
 [STATIC: trust-strip]
 
+Every figure above is factory-verified: 3,000,000 units per year, 30-day lead time, and certifications already held for your target market.
+
 ---
 
 ## SECTION 3 — ONE FACTORY. FULL RANGE.
@@ -150,6 +152,8 @@ Every unit from every product line ships after 100% automated vacuum leak detect
 
 ## SECTION 8 — WHY iCLIMA AIR
 
+Distributors and importers sourcing across the full product range benefit from one factory relationship covering Italian-designed OBM, private-label OEM, and 8 market certifications.
+
 [STATIC: why-iclima]
 
 ---
@@ -173,6 +177,8 @@ Every unit from every product line ships after 100% automated vacuum leak detect
 ---
 
 ## SECTION 10 — CERTIFICATIONS
+
+iCLIMA AIR holds CE, CB, UL, AHRI, RETIQ, RTCA, GMRK, and ISO 9001 certifications — covering Europe, North America, Latin America, and the Gulf. Documentation ships with every container.
 
 [STATIC: certifications]
 
@@ -213,6 +219,9 @@ Sourcing all AC types from one factory — rather than multiple suppliers — el
 ## SECTION 13 — FOOTER CTA
 
 [STATIC: footer-cta]
+
+iCLIMA AIR — Air Conditioner Manufacturer for Distributors & Importers
+[Request a Quote]
 
 ---
 

@@ -40,6 +40,8 @@ iCLIMA AIR supplies air conditioning for hospitals, clinics, and medical facilit
 
 [STATIC: trust-strip]
 
+Healthcare procurement teams get a <0.1% defect rate across 3,000,000 units per year, certifications accepted across European and North American markets, and a 30-day delivery timeline that aligns with clinical commissioning schedules.
+
 ---
 
 ### SECTION 3 — THE CHALLENGE

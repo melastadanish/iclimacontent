@@ -1,4 +1,5 @@
+# Ignore everything except directories and .md files
 *
+!*/
 !*.md
-!**/*.md
 !.gitignore

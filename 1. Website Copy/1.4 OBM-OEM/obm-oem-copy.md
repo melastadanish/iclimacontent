@@ -40,6 +40,8 @@ iCLIMA AIR is a China-based air conditioner manufacturer producing 3,000,000 uni
 
 [STATIC: trust-strip]
 
+Both OBM and OEM ship from the same 30,000 sqm facility — 30-day production lead time, 10 days from stock, with all 8 certifications already held.
+
 ---
 
 ## SECTION 3 — OBM BRAND
@@ -121,6 +123,8 @@ All products are available as iCLIMA AIR OBM brand or as OEM private label under
 
 ## SECTION 7 — WHY ICLIMA AIR
 
+Whether you distribute the iCLIMA AIR brand or build your own, the five advantages below — Italian design, low defect rate, 30-day lead time, full certifications, and low MOQ — apply identically to both paths.
+
 [STATIC: why-iclima]
 
 ---
@@ -174,11 +178,21 @@ OBM is the faster path. The brand, certifications, and design are already built 
 
 [STATIC: primary-cta]
 
+**Ready to Start OBM Distribution or OEM Production?**
+Tell us your product type, target market, annual volume, and OBM or OEM preference. We'll confirm pricing, certifications, and lead time within 24 hours.
+
+[Get a Quote]  [Contact on WhatsApp]
+
 ---
 
 ## SECTION 12 — FOOTER CTA
 
 [STATIC: footer-cta]
+
+**iCLIMA AIR — OBM Brand and OEM Private Label AC Manufacturer**
+CE · CB · UL · AHRI · RETIQ · RTCA · GMRK certified · OBM from stock · OEM in 30 days
+
+[Request a Quote]
 
 ---
 

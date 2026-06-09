@@ -42,6 +42,8 @@ iCLIMA AIR supplies air conditioning for retail stores and shopping centers — 
 
 [STATIC: trust-strip]
 
+Retail and mall developers get phased delivery across a 30-day production schedule, CE and AHRI certifications already confirmed, and capacity to fulfil large-format multi-unit rollouts without backorders.
+
 ---
 
 ### SECTION 3 — THE CHALLENGE
