@@ -197,6 +197,8 @@ iCLIMA AIR responds to inquiries within 24 hours. A 7-day production sample is a
 
 ## SECTION 13 — FOOTER CTA
 
+Ready to move forward? Visit the product archive, explore OBM and OEM options, or send an inquiry — iCLIMA AIR responds within 24 hours.
+
 [STATIC: footer-cta]
 
 ---

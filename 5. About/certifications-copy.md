@@ -183,6 +183,8 @@ Send an inquiry with your destination market and product requirement. iCLIMA AIR
 
 ## SECTION 10 — FOOTER CTA
 
+Explore the full product range, confirm your market's certification requirements, or contact iCLIMA AIR directly — documentation is confirmed within 24 hours.
+
 [STATIC: footer-cta]
 
 ---

@@ -185,6 +185,8 @@ A 7-day production sample is available for buyers who want to evaluate the produ
 
 ## SECTION 13 — FOOTER CTA
 
+Request a 7-day production sample, review certification documents, or send your market and product requirement — iCLIMA AIR responds within 24 hours.
+
 [STATIC: footer-cta]
 
 ---
