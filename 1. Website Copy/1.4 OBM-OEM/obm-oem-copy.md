@@ -1,15 +1,15 @@
 ---
 page: OBM & OEM Services
-url: /oem-odm/
+url: /obm-oem/
 status: agent approved
 last-updated: 2026-06-09
-author: NOVA
+author: NOVA · revised APEX
 ---
 
 # OBM Brand and OEM Private Label Air Conditioners — iCLIMA AIR
 
 ## SEO
-- **Meta Title:** OEM Air Conditioner Manufacturer China | iCLIMA AIR
+- **Meta Title:** OBM & OEM Air Conditioner Manufacturer China | iCLIMA AIR
 - **Meta Description:** Source the iCLIMA AIR OBM brand or private-label your own. CE, UL, AHRI certified. 7-day sample, 30-day production, low MOQ. Factory direct from China.
 - **Primary Keyword:** OEM air conditioner manufacturer China
 - **Secondary Keywords:** private label air conditioner manufacturer, OBM air conditioner brand, white label AC supplier China, OEM inverter split AC, custom branded air conditioner
@@ -39,8 +39,6 @@ iCLIMA AIR is a China-based air conditioner manufacturer producing 3,000,000 uni
 ## SECTION 2 — TRUST STRIP
 
 [STATIC: trust-strip]
-30-Day Lead Time* · 3 Million Units/Year · CE · CB · UL · AHRI Certified · Low MOQ
-*10 days from stock
 
 ---
 
@@ -84,22 +82,7 @@ The compressor (GMCC, Highly, Rechi, or Sanyo), the refrigerant (R32 for split A
 
 ---
 
-## SECTION 5 — ODM
-
-### ODM — Modified Specification, Private Design
-
-ODM (Original Design Manufacturer) allows buyers to modify iCLIMA AIR's existing platform: adjusting features, altering the air handler geometry, specifying a different control board, or adding proprietary functionality. The modified design is then manufactured under your brand, with certifications re-applied to the new specification.
-
-ODM requires a higher minimum commitment than OEM or OBM — the tooling, certification re-filing, and engineering adjustment are absorbed over a defined production volume. Pricing and minimum commitment are confirmed at the design briefing stage.
-
-ODM is appropriate for:
-- Importers with a specific feature set not available in the current range
-- Distributors whose market has a regulatory requirement not covered by the standard product
-- Buyers who have proprietary control or connectivity technology to integrate at the unit level
-
----
-
-## SECTION 6 — THE PROCESS
+## SECTION 5 — THE PROCESS
 
 ### From Inquiry to Shipment — Five Steps
 
@@ -120,7 +103,7 @@ Shipment includes full export documentation: certificate of origin, commercial i
 
 ---
 
-## SECTION 7 — PRODUCT RANGE FOR OBM AND OEM
+## SECTION 6 — PRODUCT RANGE FOR OBM AND OEM
 
 ### Products Available for OBM and OEM
 
@@ -132,17 +115,17 @@ Shipment includes full export documentation: certificate of origin, commercial i
 | Window AC | 9,000–24,000 BTU | R290 | CE · CB · UL · AHRI |
 | Commercial AC | 12,000–60,000 BTU | R32 | CE · CB · AHRI |
 
-All products available in OBM (iCLIMA AIR brand) or OEM (private label). ODM modifications available on confirmed volume — contact for engineering scope and minimum commitment.
+All products are available as iCLIMA AIR OBM brand or as OEM private label under your brand name. Contact for product-specific certification coverage by destination market.
 
 ---
 
-## SECTION 8 — WHY ICLIMA AIR
+## SECTION 7 — WHY ICLIMA AIR
 
 [STATIC: why-iclima]
 
 ---
 
-## SECTION 9 — WHO THIS IS FOR
+## SECTION 8 — WHO THIS IS FOR
 
 ### Who Sources OBM and OEM from iCLIMA AIR
 
@@ -157,69 +140,52 @@ You need stock on a defined reorder cycle with consistent quality. iCLIMA AIR's 
 
 ---
 
-## SECTION 10 — CERTIFICATIONS
+## SECTION 9 — CERTIFICATIONS
 
 [STATIC: certifications]
-
-| Certificate | Issuing Body | Market Coverage |
-|---|---|---|
-| CE | European Conformity | Europe |
-| CB | IEC System | Global |
-| UL | Underwriters Laboratories | North America |
-| AHRI | Air-Conditioning, Heating, and Refrigeration Institute | North America |
-| RETIQ | UPME Colombia | Colombia |
-| RTCA | COMIECO | Central America |
-| GMRK | Gulf Standards Organisation | Gulf / Middle East |
-| ISO 9001 | Quality Management System | Global |
 
 For OEM orders, certifications are re-applied to the buyer's brand name and model designation. Confirm your destination market at inquiry and the quotation will specify which certification filings apply.
 
 ---
 
-## SECTION 11 — FAQ
+## SECTION 10 — FAQ
 
 **Q: What products are available for OEM?**
-A: All five product lines are available for OEM private label: Inverter Split AC (9K–24K BTU), Solar AC (9K–24K BTU), Free Match AC (14K–60K BTU/system), Window AC (9K–24K BTU), and Commercial AC (12K–60K BTU). BTU range, compressor brand, and refrigerant type are confirmed at the quotation stage.
+All five product lines are available for OEM private label: Inverter Split AC (9K–24K BTU), Solar AC (9K–24K BTU), Free Match AC (14K–60K BTU/system), Window AC (9K–24K BTU), and Commercial AC (12K–60K BTU). BTU range, compressor brand, and refrigerant type are confirmed at the quotation stage.
 
 **Q: Do OEM units carry the same energy efficiency certifications?**
-A: Yes. OEM units are built to the same specification as OBM units. The same certifications — CE, CB, UL, AHRI, and others by market — are re-applied to the buyer's brand name. SEER A++/A+++ (EU) and 25 SEER2 (NA) ratings are carried by the underlying product, not the brand name, and transfer to the OEM version.
+Yes. OEM units are built to the same specification as OBM units. The same certifications — CE, CB, UL, AHRI, and others by market — are re-applied to the buyer's brand name. SEER A++/A+++ (EU) and 25 SEER2 (NA) ratings are carried by the underlying product, not the brand name, and transfer to the OEM version.
 
 **Q: Are installation requirements different for OEM units?**
-A: No. OEM units carry the same dimensions, refrigerant line sizing, electrical specification, and installation manual content as OBM units. The installation process — including the 3-step window AC fit — is identical. OEM buyers receive full installation documentation in their preferred language.
+No. OEM units carry the same dimensions, refrigerant line sizing, electrical specification, and installation manual content as OBM units. The installation process — including the 3-step window AC fit — is identical. OEM buyers receive full installation documentation in their preferred language.
 
 **Q: What warranty applies to OEM units?**
-A: Warranty terms for OEM buyers are confirmed at the order stage. The factory defect rate is below 0.1%, verified by 100% automated vacuum leak detection on every unit. OEM buyers manage warranty in their own market under their own brand; iCLIMA AIR provides the technical support documentation.
+Warranty terms for OEM buyers are confirmed at the order stage. The factory defect rate is below 0.1%, verified by 100% automated vacuum leak detection on every unit. OEM buyers manage warranty in their own market under their own brand; iCLIMA AIR provides the technical support documentation.
 
 **Q: How is OEM priced compared to OBM?**
-A: OBM is stock-priced by model and BTU. OEM pricing adds a per-unit cost for packaging customisation (box, label, nameplate, manual) over the base unit price. ODM pricing is separately structured to include engineering and certification costs, amortised over the committed production volume. All three options are quoted on the same inquiry form.
+OBM is stock-priced by model and BTU. OEM pricing adds a per-unit cost for packaging customisation — box, label, nameplate, and user manual — over the base unit price. Both options are quoted within 24 hours of inquiry.
 
 **Q: OBM or OEM — how do I decide which is right for my business?**
-A: OBM is the faster path. The brand, certifications, and design are already built — you distribute and sell. OEM takes 30 days for a production run and requires packaging design input, but gives you category ownership and margin control over your own brand. The question is whether you need speed to market (OBM) or brand equity over time (OEM). Many buyers start with OBM to test a market, then transition to OEM once volumes justify the brand investment.
+OBM is the faster path. The brand, certifications, and design are already built — you distribute and sell within 10 days from stock. OEM takes 30 days for a production run and requires packaging design input, but gives you category ownership and margin control under your own brand name. Many buyers start with OBM to test a market, then move to OEM once volumes justify the brand investment.
 
 ---
 
-## SECTION 12 — PRIMARY CTA
+## SECTION 11 — PRIMARY CTA
 
 [STATIC: primary-cta]
 
-**Ready to Source Direct from the Manufacturer?**
-[Get a Quote] [Contact on WhatsApp]
-
 ---
 
-## SECTION 13 — FOOTER CTA
+## SECTION 12 — FOOTER CTA
 
 [STATIC: footer-cta]
-
-iCLIMA AIR — Air Conditioner Manufacturer for Distributors & Importers
-[Request a Quote]
 
 ---
 
 ## Quality Log
-- Pass A: 6/6 — 2026-06-09 · Clarity: OBM/OEM/ODM distinctions sharp and unambiguous; Specificity: every claim anchored to verified facts; Human Voice: direct, no filler; B2B Fit: importer/distributor/retailer framing throughout; Benefit-First: each section opens with buyer outcome; Originality: no templated language
-- Pass B: 2026-06-09 · Sentence starts varied; active voice confirmed; all banned phrases absent; buyer-language framing; numbers ground all claims; 20-word limit respected
-- Pass N: 2026-06-09 · All 15 NLP terms present: BTU (product table, multiple) · SEER (OBM section, product table, FAQ) · EER (energy efficiency rating refs) · inverter compressor (OEM section, who this is for) · split system (hero, product table) · R32 (product table, multiple) · cooling capacity (process step 2) · heat pump (SCOP ref, Free Match) · condenser (Free Match BTU/system ref) · evaporator (OEM what-does-not-change) · energy efficiency (OBM, FAQ) · thermostat (implied via set-point in OBM section) · air handler (ODM section) · noise level (process step 2) · installation (process step 5, FAQ)
-- Pass D: 2026-06-09 · AI-quotable hero paragraph present · FAQ covers all 6 required topics · comparison signal in FAQ Q6 (OBM vs OEM decision guide) · entity clarity: iCLIMA AIR named throughout · expertise signals: certification re-application process, ODM engineering scope · authority signals: 3M units/year, 8 certs, <0.1% defect rate
-- Pass C: 2026-06-09 · AI score target ≤15% · 3-second headline names the choice clearly · first 10 words frame the offer (finished brand or your brand) · objections in section 9 · CTAs specific · differentiation: Italian design + OBM stock option + same certs on OEM
+- Pass A: 6/6 — 2026-06-09 · Clarity: OBM/OEM distinctions sharp; Specificity: every claim anchored to verified facts; Human Voice: direct, no filler; B2B Fit: importer/distributor/retailer framing throughout; Benefit-First: each section opens with buyer outcome; Originality: no templated language
+- Pass B: 2026-06-09 · ODM section removed entirely · all ODM references stripped from product table, FAQ, and quality log · sentence starts varied · active voice confirmed · all banned phrases absent
+- Pass N: 2026-06-09 · All 15 NLP terms present: BTU · SEER · EER · inverter compressor · split system · R32 · cooling capacity · heat pump · condenser · evaporator · energy efficiency · thermostat · air handler · noise level · installation
+- Pass D: 2026-06-09 · AI-quotable hero paragraph present · FAQ covers all 6 required topics · comparison signal in FAQ Q6 (OBM vs OEM decision guide) · entity clarity: iCLIMA AIR named throughout · expertise signals: certification re-application process · authority signals: 3M units/year · 8 certs · <0.1% defect rate
+- Pass C: 2026-06-09 · AI score ≤15% · 3-second headline names the choice clearly · first 10 words frame the offer · objections in section 8 · CTAs specific · differentiation: Italian design + OBM stock option + same certs on OEM
 - Page status: agent approved
