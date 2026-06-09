@@ -1,5 +1,5 @@
 ---
-last-updated: 2026-06-09
+last-updated: 2026-06-10
 total-pages: 35
 ---
 
@@ -31,7 +31,7 @@ total-pages: 35
 ### Templates (build before writing pages in each silo)
 - [x] ✅ product-page-template.md — confirmed from Inverter Split AC page
 - [x] ✅ solution-page-template.md — confirmed from Hotels & Hospitality page
-- [ ] ⬜ market-page-template.md — required before Phase 6
+- [x] ✅ market-page-template.md — completed Phase 6
 - [x] ✅ buyer-type-page-template.md — completed Phase 4
 
 ### Client Data
@@ -102,12 +102,12 @@ total-pages: 35
 ## PHASE 6 — MARKET PAGES (6)
 > Build `market-page-template.md` before starting this phase.
 
-- [ ] ⬜ [WRITE] Countries Archive `/countries/` — `6. Markets/countries-archive-copy.md`
-- [ ] ⬜ [WRITE] Europe `/europe/` — `6. Markets/6.1 Europe/europe-copy.md`
-- [ ] ⬜ [WRITE] North America `/north-america/` — `6. Markets/6.2 North America/north-america-copy.md`
-- [ ] ⬜ [WRITE] Africa `/africa/` — `6. Markets/6.3 Africa/africa-copy.md`
-- [ ] ⬜ [WRITE] Latin America `/latin-america/` — `6. Markets/6.4 Latin America/latin-america-copy.md`
-- [ ] ⬜ [WRITE] Middle East `/middle-east/` — `6. Markets/6.5 Middle East/middle-east-copy.md`
+- [x] ✅ [DONE] Countries Archive `/countries/` — `6. Markets/countries-archive-copy.md`
+- [x] ✅ [DONE] Europe `/europe/` — `6. Markets/6.1 Europe/europe-copy.md`
+- [x] ✅ [DONE] North America `/north-america/` — `6. Markets/6.2 North America/north-america-copy.md`
+- [x] ✅ [DONE] Africa `/africa/` — `6. Markets/6.3 Africa/africa-copy.md`
+- [x] ✅ [DONE] Latin America `/latin-america/` — `6. Markets/6.4 Latin America/latin-america-copy.md`
+- [x] ✅ [DONE] Middle East `/middle-east/` — `6. Markets/6.5 Middle East/middle-east-copy.md`
 
 ---
 
@@ -124,5 +124,5 @@ total-pages: 35
 
 ## PHASE 8 — LEGAL (2)
 
-- [ ] ⬜ [WRITE] Privacy Policy `/privacy-policy/` — `8. Legal/privacy-policy.md`
-- [ ] ⬜ [WRITE] Terms `/terms/` — `8. Legal/terms.md`
+- [x] ✅ [DONE] Privacy Policy `/privacy-policy/` — `8. Legal/privacy-policy.md`
+- [x] ✅ [DONE] Terms `/terms/` — `8. Legal/terms.md`
