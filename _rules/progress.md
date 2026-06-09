@@ -1,5 +1,5 @@
 ---
-last-updated: 2026-06-08
+last-updated: 2026-06-09
 total-pages: 35
 ---
 
@@ -48,9 +48,9 @@ total-pages: 35
 
 - [x] ✅ [DONE] Homepage `/` — `1. Website Copy/1.1 Homepage/homepage-copy.md`
 - [x] ✅ [DONE] Product Archive `/products/` — `1. Website Copy/1.2 Product Archive/product-archive-copy.md`
-- [ ] ⬜ [WRITE] Solutions Archive `/solutions/` — `1. Website Copy/1.3 Solutions Archive/solutions-archive-copy.md`
-- [ ] ⬜ [WRITE] OBM & OEM Services `/oem-odm/` — `1. Website Copy/1.4 OEM-ODM/oem-odm-copy.md`
-- [ ] ⬜ [WRITE] Contact & Quote `/contact/` — `1. Website Copy/1.5 Contact/contact-copy.md`
+- [x] ✅ [DONE] Solutions Archive `/solutions/` — `1. Website Copy/1.3 Solutions Archive/solutions-archive-copy.md`
+- [x] ✅ [DONE] OBM & OEM Services `/oem-odm/` — `1. Website Copy/1.4 OEM-ODM/oem-odm-copy.md`
+- [x] ✅ [DONE] Contact & Quote `/contact/` — `1. Website Copy/1.5 Contact/contact-copy.md`
 
 ---
 
